@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\q456\\source\\repos\\Assignment1\\Assignment1\\Assignment1.csproj": {}
+    "C:\\Users\\Michael Nyback\\Desktop\\CDU\\2021 SEM2\\HIT339\\Assignments\\2\\github_repo\\HIT221\\Assignment1\\Assignment1\\Assignment1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\q456\\source\\repos\\Assignment1\\Assignment1\\Assignment1.csproj": {
+    "C:\\Users\\Michael Nyback\\Desktop\\CDU\\2021 SEM2\\HIT339\\Assignments\\2\\github_repo\\HIT221\\Assignment1\\Assignment1\\Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\q456\\source\\repos\\Assignment1\\Assignment1\\Assignment1.csproj",
+        "projectUniqueName": "C:\\Users\\Michael Nyback\\Desktop\\CDU\\2021 SEM2\\HIT339\\Assignments\\2\\github_repo\\HIT221\\Assignment1\\Assignment1\\Assignment1.csproj",
         "projectName": "Assignment1",
-        "projectPath": "C:\\Users\\q456\\source\\repos\\Assignment1\\Assignment1\\Assignment1.csproj",
-        "packagesPath": "C:\\Users\\q456\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\q456\\source\\repos\\Assignment1\\Assignment1\\obj\\",
+        "projectPath": "C:\\Users\\Michael Nyback\\Desktop\\CDU\\2021 SEM2\\HIT339\\Assignments\\2\\github_repo\\HIT221\\Assignment1\\Assignment1\\Assignment1.csproj",
+        "packagesPath": "C:\\Users\\Michael Nyback\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michael Nyback\\Desktop\\CDU\\2021 SEM2\\HIT339\\Assignments\\2\\github_repo\\HIT221\\Assignment1\\Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\q456\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Michael Nyback\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
